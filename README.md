@@ -1,2 +1,4 @@
 # SearchByCategory
 Python program to search google by category and display top 5 search results.
+
+This is a project that allows people to find the best learning tools for certain subjects. For example if someone were to want to learn the C language they would look it up on the applications under the specific category for which method they would want to use (ex: book, online source, videos, etc). Each option or link would have reviews in how useful or fast the source was to use. This application would start off with a limited amount of categories and be expanded through user input and ideas. The sources for each subjected can be added and rated through the users. Overall, the goal of this application would be to supply scholars with a fast and straightforward application to find ways to learn or build upon their knowledge in specific subjects.
